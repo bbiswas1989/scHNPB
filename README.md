@@ -1,0 +1,2 @@
+Install the scHNPB package using the following: devtools::install_github("bbiswas1989/scHNPB"). Installation of scHNPB depends on the installation of some dependent packages: scDEA, NODES, ROSeq, plyr, dplyr. These packages also depend on other packages. All the dependencies should be installed correctly before installing scHNPB. We have used the R software with version 4.1.1 for the development of the scHNPB package.
+
